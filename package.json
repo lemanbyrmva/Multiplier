@@ -1,0 +1,28 @@
+{
+  "name": "multiplier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lemanbyrmva/Multiplier.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lemanbyrmva/Multiplier/issues"
+  },
+  "homepage": "https://github.com/lemanbyrmva/Multiplier#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  },
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "pretty-quick": "^3.1.3"
+  }
+}
